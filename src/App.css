@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.char-card {
+
+  padding: 10px;
+  border: solid 2px black;
+  border-radius: 20px;
+  margin: 10px;
+
+}
+
+.emoji {
+  font-size: 30px;
+}
